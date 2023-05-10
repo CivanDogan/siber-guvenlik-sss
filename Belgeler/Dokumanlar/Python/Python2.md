@@ -37,7 +37,7 @@
 Programlamanın gücü değişkenlerden geçer. Bunları bir değere işaret eden isimler gibi düşünebiliriz. Yada şöyle. 
 
  
-<image src="Belgeler/Dokumanlar/Python/resimler/GettyImages-553331677.webp" width="400" height="300">
+<image src="/Belgeler/Dokumanlar/Python/resimler/GettyImages-553331677.webp" width="400" height="300">
 
 
 Partiye gelip geçici olarak kendi bardağınızı almak gibi. Sen gelirsin, bardağın üstüne adını yazar ve içeceklerini oraya koyarsın. Parti boyunca senin içeceğini kimse alamaz çünkü onun senin olduğunu herkes bilir. İşte bu bardak bir değişken gibi. Adını koyarsın (değişken adı), içine bir şeyler koyarsın (değişken değeri) ve sonra onu kullanabilirsin. 
