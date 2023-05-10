@@ -5,7 +5,7 @@
 
 --- 
 
-<h1 align="center">Python</h1> 
+<h1 align="center">Python Bölüm 1</h1> 
 
  
  
@@ -471,23 +471,28 @@ Biraz deneysel olacağız. Ödevlerinizi yaparken kendi çözümünüzü bulmaya
  
  
 
-- Bir yazdırma ifadesinde, parantezlerden birini veya her ikisini de çıkardığınızda ne olur? 
 
-- Bir dize yazdırmaya çalışırken, tırnak işaretlerinden birini veya her ikisini de çıkardığınızda ne olur? 
+- Eğer bir yazdırma ifadesinde (print()) parantezlerden birini veya her ikisini de çıkardığınızda ne olur?
 
-- Negatif bir sayı yapmak için eksi işareti kullanabilirsiniz, örneğin -2. Artı işareti önünde ne olur? 2++2 ne anlama gelir? 
+- Bir dizeyi yazdırmaya çalışırken (print("dize")), tırnak işaretlerinden birini veya her ikisini de çıkardığınızda ne olur?
 
-- Matematik notasyonunda, başında sıfır olan sayılar kabul edilir, örneğin 09. Bunu Python'da denerseniz ne olur? 011 ne olacak? 
+- Eğer bir sayının önüne iki artı işareti koyarsanız (örneğin, ++2), bu ne anlama gelir? Python'da ++2 ne anlama gelir?
 
-- İki değeri arasında herhangi bir işlem olmadan bırakırsanız ne olur? 
+- Python'da sayıları sıfır ile başlatırsanız ne olur? Örneğin, Python'da 0011 ne olacak?
 
-- Python yorumlayıcısını kullanarak aşağıdaki soruları cevaplayın: 
+- İki değeri arasında herhangi bir işlem olmadan bırakırsanız ne olur?
 
- - 60 dakika 30 saniye kaç saniyedir? 
+- Python yorumlayıcısını kullanarak aşağıdaki soruları cevaplayın:
 
- -  5 kilometrede kaç mil vardır? İpucu: Bir milde 1,61 kilometre vardır. 
+ - 6 saat kaç saniyedir?
 
- - 10 kilometrelik bir yarışı 42 dakika 42 saniyede koşarsanız, ortalama hızınız saatte kaç mil olur? Ortalama hızınız milde dakika ve saniye cinsinden nedir? 
+ - 15 kilometrede kaç mil vardır? İpucu: Bir milde 1,61 kilometre vardır.
+
+ - 15 kilometrelik bir yarışı 50 dakika 30 saniyede koşarsanız, ortalama hızınız saatte kaç mil olur? Ortalama hızınız milde dakika ve saniye cinsinden nedir?
+
+- Python'da bir değişkenin tipini nasıl kontrol ederiz?
+
+- Python'da bir dizeyi tam sayıya nasıl dönüştürürüz?
 
  
  
@@ -495,7 +500,7 @@ Biraz deneysel olacağız. Ödevlerinizi yaparken kendi çözümünüzü bulmaya
 Ödevlerinizi yapın. Yoksa sınıfta kalırsınız. - Civan 
 
  
- 
+ Sonraki : [Bölüm 2](/Belgeler/Dokumanlar/Python/Python.md)
 
 ## Hazırlayanlar 
 
