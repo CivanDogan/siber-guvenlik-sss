@@ -500,7 +500,7 @@ Biraz deneysel olacağız. Ödevlerinizi yaparken kendi çözümünüzü bulmaya
 Ödevlerinizi yapın. Yoksa sınıfta kalırsınız. - Civan 
 
  
- Sonraki : [Bölüm 2](/Belgeler/Dokumanlar/Python/Python.md)
+ Sonraki : [Bölüm 2](/Belgeler/Dokumanlar/Python/Python2.md)
 
 ## Hazırlayanlar 
 
